@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-09T06:24:30.188Z",
+  "origin": "https://harpd.com",
+  "qualified": 8637,
+  "categories": 28,
+  "files": [
+    {
+      "path": "coverage/discovery-index.json",
+      "bytes": 5820942,
+      "sha256": "4302083327edc402d230f4072148aec0d0b9910dbc6c803b6d5eb85dbd5fc550"
+    },
+    {
+      "path": "coverage/discovery-index.csv",
+      "bytes": 2427266,
+      "sha256": "cf141564688c82841ba13c750bd1b0491aa0c82603e59a6c4568714d1cf1dc71"
+    },
+    {
+      "path": "methodology/discovery-index.schema.json",
+      "bytes": 2174,
+      "sha256": "6484c906341b616a12cb7d30307efb22ddf3ef71980c23ebc7d1907cdf11cf95"
+    }
+  ]
+}

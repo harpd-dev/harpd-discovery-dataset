@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Harpd Product Discovery Index"
+abstract: >-
+  Non-sponsored coverage dataset of software, AI and developer products discovered on
+  public launch and directory sources, each enriched from its own homepage. Coverage,
+  not quality: it records what exists and what can be verified, never a rating.
+authors:
+  - name: "Harpd"
+    website: "https://harpd.com/"
+date-released: "2026-09-09"
+license: CC-BY-4.0
+url: "https://github.com/harpd-dev/harpd-discovery-dataset"
+keywords:
+  - product discovery
+  - ai tools
+  - developer tools
+  - dataset
+  - coverage
