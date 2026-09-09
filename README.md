@@ -58,6 +58,7 @@ The data is published under **CC BY 4.0**. The sync scripts in `scripts/` are **
 | --- | --- |
 | `coverage/discovery-index.json` | Full dataset — one object per product: id, name, domain, url, category, category_confidence, classification_evidence, title, description, h1, lang, github_url, discovered_from, completeness, on_rank_board, observed_at |
 | `coverage/discovery-index.csv` | Flat CSV of the same records (subset of fields) |
+| `RESEARCH_SNAPSHOT_2026-09.md` | Citable research brief — key numbers, category and language distribution, computed from the dataset |
 | `methodology/discovery-index.schema.json` | JSON Schema for the dataset, copied verbatim from the live endpoint |
 | `manifest.json` | Snapshot metadata + SHA-256 of every file (integrity) |
 | `METHODOLOGY.md` | Human-readable method: harvest, enrichment, classification, rejection |
