@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:24:30.188Z",
+  "generatedAt": "2026-09-09T06:33:49.935Z",
   "origin": "https://harpd.com",
   "qualified": 8637,
   "categories": 28,
@@ -7,7 +7,7 @@
     {
       "path": "coverage/discovery-index.json",
       "bytes": 5820942,
-      "sha256": "4302083327edc402d230f4072148aec0d0b9910dbc6c803b6d5eb85dbd5fc550"
+      "sha256": "754f78a60d9fa6261facdd0feaeef8ce3496323b75083e1b22f2cf53efdd4d89"
     },
     {
       "path": "coverage/discovery-index.csv",
